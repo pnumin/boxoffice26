@@ -1,0 +1,6 @@
+{
+  "name": "Korean Box Office Tracker",
+  "description": "View daily top movie box office rankings in Korea using the KOBIS API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
